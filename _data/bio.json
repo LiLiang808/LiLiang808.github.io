@@ -52,10 +52,22 @@
         "C",
         "Java",
         "Javascript",
+        "HTML",
+        "Underscore.js",
+        "Meteor",
+        "Semantic UI"
       ]
     }
   ],
   "education": [
+     {
+      "institution": "Roosevelt High School, Honolulu, HI",
+      "startDate": "2015-01-20",
+      "endDate": "2018-5-20",
+      "gpa": "",
+      "courses": [
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
@@ -68,6 +80,25 @@
     }
   ],
   "work": [
+    {
+      "company": "Jade Dunasty Chinese Seaffod Restaurant",
+      "position": "Staff",
+      "startDate": "2016-08-01",
+      "endDate": "2018-01-01",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "DFS at HNL",
+      "position": "Staff",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [
+      ]
+    },
     {
       "company": "Hana Tea",
       "position": "Staff",
